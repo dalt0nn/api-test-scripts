@@ -14,5 +14,4 @@ This repository contains automated test scripts for the Signup, Login, and API K
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/api-test-scripts.git
-   cd api-test-scripts
+   git clone https://github.com/dalt0nn/api-test-scripts.git
